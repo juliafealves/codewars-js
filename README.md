@@ -1,7 +1,7 @@
 # CodeWars JavaScript
 
 ## List of Problems
-- [Number of people in the bus]()
+- [Number of people in the bus](number-of-people-in-the-bus)
 
 ### [Number of people in the bus](https://www.codewars.com/kata/number-of-people-in-the-bus)
 There is a bus moving in the city, and it takes and drop some people in each bus stop.
